@@ -1,0 +1,122 @@
+{
+  "personal": {
+    "name": "Eric",
+    "full_name": "Eric Tse",
+    "statements": [
+      "I am a Front-end Developer",
+      "good at Css, and familiar with Javascript and Vue"
+    ]
+  },
+
+  "socials": [
+    {
+      "icon": "github",
+      "link": "https://github.com/Erictse1",
+      "color": "#02b875"
+    }
+  ],
+  "employment": [
+    {
+      "postion": "Course with JavaScript, Css, Html",
+      "company": "Udemy",
+      "startdate": "June 2021",
+      "enddate": "March 2022",
+      "jobtcontent": [
+        "Learning JavaScript, Html and Css layout structure and responsible web development, Vue and Jquery"
+      ]
+    },
+    {
+      "postion": "Recruitment Consultant",
+      "company": "Worldhunt",
+      "startdate": "Aug 2020",
+      "enddate": "Sep 2020",
+      "jobtcontent": [
+        "Client side: Called to clients and recruited six clients in IT field",
+        "Candidate side: Communicated with candidates for understanding their background"
+      ]
+    },
+    {
+      "postion": "Recruitment Consultant",
+      "company": "ITsearch",
+      "startdate": "Aug 2020",
+      "enddate": "June 2020",
+      "jobtcontent": [
+        "Sourced out qualified candidates from database",
+        "Matched with IT roles with qualified candidates"
+      ]
+    },
+    {
+      "postion": "Operation Officer(Contract)",
+      "company": "Maybank Kim Eng",
+      "startdate": "Aug 2019",
+      "enddate": "Oct 2019",
+      "jobtcontent": [
+        "Handled account opening with client’ static data and CDD analysis",
+        "Scanned and filled documents"
+      ]
+    },
+    {
+      "postion": "Corporate Account Service Trainee",
+      "company": "Bank of Communication",
+      "startdate": "Aug 2018",
+      "enddate": "Dec 2018",
+      "jobtcontent": [
+        "Identified potential Corporate clients and approached them by cold-calling and email",
+        "Handled corporate client’s enquiries on cash interest rates",
+        "Assisted Manager in administration duties"
+      ]
+    },
+    {
+      "postion": "Customer Service Executive Trainee",
+      "company": "DBS Bank Ltd",
+      "startdate": "June 2014",
+      "enddate": "July 2015",
+      "jobtcontent": [
+        "Solved complaints cases, handled customer emotion and investigated into details for solutions, such as payment problem, marketing campaign error and different urgent cases.",
+        "Provided customer solution including phone, e-banking and apps range from payment, installment, and login/logout/register in credit card marketing campaign functions.",
+        "Communicated with customers by telephone, with 60 calls around per day",
+        "Coordinated with internal departments for delivering consistent services to the customers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "subject": "BEng (Hons) - Industrial System Engineering, Product Engineering with Marketing",
+      "schoolname": "The Hong Kong Polytechnic University",
+      "startdate": "2015",
+      "enddate": "2018"
+    },
+    {
+      "subject": "Higher Diploma in Marketing",
+      "schoolname": "Hong Kong Institute of Vocational Education (Lee Wai Lee)",
+      "startdate": "2012",
+      "enddate": "2014"
+    }
+  ],
+  "Project": [
+    {
+      "name": "Movie get data from API",
+      "src": "/assets/images/projects/p1thumb.jpeg",
+      "code": 1,
+      "content": "It can get the data from TDMB such as Popularity, Image, Name and overview of the moive.  It includes sorting and searching function that help people to find moive in an more effecient way.",
+      "role": "It is writted by Vue. and the data source comes from TDMB(The Movie Database).",
+      "link": "https://moiveapi.netlify.app"
+    },
+    {
+      "name": "Chubb Corporate website",
+      "src": "/assets/images/projects/p2thumb.jpeg",
+      "code": 2,
+      "content": "",
+      "role": "It is a practice writted by html, css and javascript",
+      "link": "https://chubb.netlify.app"
+    },
+    {
+      "name": "Moving Picture / Swiper",
+      "src": "/assets/images/projects/p3thumb.jpeg",
+      "code": 3,
+      "content": "It is writted by html, css and javascript",
+      "role": "",
+      "link": "https://movingpicture.netlify.app"
+    }
+  ]
+}
